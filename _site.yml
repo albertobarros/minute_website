@@ -29,4 +29,14 @@ navbar:
           href: yourfile.html
     - text: "Resources"
       href: resources.html
+    - text: "Caiman tab"
+      href: paul.html
+
 output_dir: "."
+
+
+
+
+
+
+
